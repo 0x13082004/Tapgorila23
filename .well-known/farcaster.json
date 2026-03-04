@@ -10,34 +10,34 @@
   "subtitle": "Tap to earn pata", 
   "description": "Tap Bandor to earn pata and it's a funny game",
 
-  "iconUrl": "https://tapgorila23.vercel.app/assets/icon.png",
-  "imageUrl": "https://tapgorila23.vercel.app/assets/embed-3x2.png",
-  "homeUrl": "https://tapgorila23.vercel.app/",
-  "canonicalDomain": "tapgorila23.vercel.app",
+  "iconUrl": "https://dragon-drop-quest.vercel.app/assets/icon.png",
+  "imageUrl": "https://dragon-drop-quest.vercel.app/assets/embed-3x2.png",
+  "homeUrl": "https://dragon-drop-quest.vercel.app/",
+  "canonicalDomain": "dragon-drop-quest.vercel.app",
 
-  "splashImageUrl": "https://tapgorila23.vercel.app/assets/splash-200.png",
+  "splashImageUrl": "https://dragon-drop-quest.vercel.app/assets/splash-200.png",
   "splashBackgroundColor": "#000000",
   "primaryCategory": "games",
 
   "tags": ["game", "tap", "base", "miniapp"],
 
   "screenshotUrls": [
-    "https://tapgorila23.vercel.app/assets/screenshots/1.png",
-    "https://tapgorila23.vercel.app/assets/screenshots/2.png",
-    "https://tapgorila23.vercel.app/assets/screenshots/3.png"
+    "https://dragon-drop-quest.vercel.app/assets/screenshots/1.png",
+    "https://dragon-drop-quest.vercel.app/assets/screenshots/2.png",
+    "https://dragon-drop-quest.vercel.app/assets/screenshots/3.png"
   ],
 
-  "heroImageUrl": "https://tapgorila23.vercel.app/assets/hero-1200x630.png",
+  "heroImageUrl": "https://dragon-drop-quest.vercel.app/assets/hero-1200x630.png",
 
   "tagline": "Tap. Earn. Fun.",
 
   "ogTitle": "Bandor Tapper",
   "ogDescription": "Tap Bandor, earn pata, and climb the leaderboard!",
-  "ogImageUrl": "https://tapgorila23.vercel.app/assets/og-1200x630.png",
+  "ogImageUrl": "https://dragon-drop-quest.vercel.app/assets/og-1200x630.png",
 
   "noindex": false,
 
-  "webhookUrl": "https://tapgorila23.vercel.app/api/webhook",
+  "webhookUrl": "https://dragon-drop-quest.vercel.app/api/webhook",
 
   "requiredChains": ["eip155:8453"],
   "requiredCapabilities": ["actions.ready"]
